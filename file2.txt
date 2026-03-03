@@ -1,1 +1,1 @@
-text2 - newtext1
+text2 - newtext2
